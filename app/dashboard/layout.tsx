@@ -1,7 +1,5 @@
 "use client";
 import type React from "react"
-import { BrowserRouter } from "react-router-dom";
-import { Link } from "react-router-dom";
 
 import { DashboardNav } from "@/components/dashboard/nav"
 import { DashboardHeader } from "@/components/dashboard/header"
