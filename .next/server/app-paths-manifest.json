@@ -1,0 +1,5 @@
+{
+  "/api/system-check/route": "app/api/system-check/route.js",
+  "/api/health/route": "app/api/health/route.js",
+  "/api/chat/route": "app/api/chat/route.js"
+}
