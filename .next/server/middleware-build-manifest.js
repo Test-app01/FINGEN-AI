@@ -1,1 +1,22 @@
-globalThis.__BUILD_MANIFEST={polyfillFiles:["static/chunks/polyfills-42372ed130431b0a.js"],devFiles:[],ampDevFiles:[],lowPriorityFiles:[],rootMainFiles:["static/chunks/webpack-cdfde67be5527b39.js","static/chunks/4bd1b696-25aff62ed307d990.js","static/chunks/1684-37f31908f162dd71.js","static/chunks/main-app-e56cdbf5e9af7325.js"],rootMainFilesTree:{},pages:{"/EducationalResources":["static/chunks/webpack-cdfde67be5527b39.js","static/chunks/framework-3b564a2e01e6e33c.js","static/chunks/main-96d59188be477637.js","static/chunks/pages/EducationalResources-bda0f9ae52e7765b.js"],"/FinancialGoals":["static/chunks/webpack-cdfde67be5527b39.js","static/chunks/framework-3b564a2e01e6e33c.js","static/chunks/main-96d59188be477637.js","static/chunks/pages/FinancialGoals-7a14e929063ae98a.js"],"/Home":["static/chunks/webpack-cdfde67be5527b39.js","static/chunks/framework-3b564a2e01e6e33c.js","static/chunks/main-96d59188be477637.js","static/chunks/6c4e00a1-e09431d9ba3cffa3.js","static/chunks/pages/Home-90738eb34534fa8d.js"],"/Learning":["static/chunks/webpack-cdfde67be5527b39.js","static/chunks/framework-3b564a2e01e6e33c.js","static/chunks/main-96d59188be477637.js","static/chunks/pages/Learning-6df75be0d2b80cef.js"],"/MarketAnalysis":["static/chunks/webpack-cdfde67be5527b39.js","static/chunks/framework-3b564a2e01e6e33c.js","static/chunks/main-96d59188be477637.js","static/chunks/4598-82858a2bcbad47f8.js","static/chunks/9655-d922046766e5387e.js","static/chunks/pages/MarketAnalysis-a854719697254394.js"],"/PortfolioSimulator":["static/chunks/webpack-cdfde67be5527b39.js","static/chunks/framework-3b564a2e01e6e33c.js","static/chunks/main-96d59188be477637.js","static/chunks/4598-82858a2bcbad47f8.js","static/chunks/8328-9d1451e2bfd92662.js","static/chunks/pages/PortfolioSimulator-2896aeb7f280f00c.js"],"/Recommendations":["static/chunks/webpack-cdfde67be5527b39.js","static/chunks/framework-3b564a2e01e6e33c.js","static/chunks/main-96d59188be477637.js","static/chunks/pages/Recommendations-51d8f072346f52a0.js"],"/RiskAssessment":["static/chunks/webpack-cdfde67be5527b39.js","static/chunks/framework-3b564a2e01e6e33c.js","static/chunks/main-96d59188be477637.js","static/chunks/pages/RiskAssessment-31c3a08a993b5bec.js"],"/UserProfile":["static/chunks/webpack-cdfde67be5527b39.js","static/chunks/framework-3b564a2e01e6e33c.js","static/chunks/main-96d59188be477637.js","static/chunks/pages/UserProfile-f3db4b43f0b4e9c1.js"],"/_app":["static/chunks/webpack-cdfde67be5527b39.js","static/chunks/framework-3b564a2e01e6e33c.js","static/chunks/main-96d59188be477637.js","static/chunks/pages/_app-5d1abe03d322390c.js"],"/_error":["static/chunks/webpack-cdfde67be5527b39.js","static/chunks/framework-3b564a2e01e6e33c.js","static/chunks/main-96d59188be477637.js","static/chunks/pages/_error-3b2a1d523de49635.js"]},ampFirstPages:[]},globalThis.__BUILD_MANIFEST.lowPriorityFiles=["/static/"+process.env.__NEXT_BUILD_ID+"/_buildManifest.js",,"/static/"+process.env.__NEXT_BUILD_ID+"/_ssgManifest.js"];
+globalThis.__BUILD_MANIFEST = {
+  "polyfillFiles": [
+    "static/chunks/polyfills.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/webpack.js",
+    "static/chunks/main-app.js"
+  ],
+  "rootMainFilesTree": {},
+  "pages": {
+    "/_app": []
+  },
+  "ampFirstPages": []
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+,"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js",
+
+];

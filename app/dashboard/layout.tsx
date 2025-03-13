@@ -1,3 +1,4 @@
+"use client";
 import type React from "react"
 import { DashboardNav } from "@/components/dashboard/nav"
 import { DashboardHeader } from "@/components/dashboard/header"

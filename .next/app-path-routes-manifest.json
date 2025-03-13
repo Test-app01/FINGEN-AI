@@ -1,8 +1,8 @@
 {
   "/_not-found/page": "/_not-found",
   "/api/connection-check/route": "/api/connection-check",
-  "/api/integration-check/route": "/api/integration-check",
   "/api/health/route": "/api/health",
+  "/api/integration-check/route": "/api/integration-check",
   "/api/system-check/route": "/api/system-check",
   "/api/chat/route": "/api/chat",
   "/educational-resources/page": "/educational-resources",
@@ -16,9 +16,9 @@
   "/dashboard/financial-goals/page": "/dashboard/financial-goals",
   "/dashboard/learning/page": "/dashboard/learning",
   "/dashboard/notifications/page": "/dashboard/notifications",
-  "/dashboard/portfolio/page": "/dashboard/portfolio",
   "/dashboard/page": "/dashboard",
+  "/dashboard/portfolio/page": "/dashboard/portfolio",
+  "/dashboard/profile/page": "/dashboard/profile",
   "/dashboard/risk-assessment/page": "/dashboard/risk-assessment",
-  "/dashboard/settings/page": "/dashboard/settings",
-  "/dashboard/profile/page": "/dashboard/profile"
+  "/dashboard/settings/page": "/dashboard/settings"
 }
