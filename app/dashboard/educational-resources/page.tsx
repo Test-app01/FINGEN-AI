@@ -194,10 +194,10 @@ export default function EducationalResourcesPage() {
                       {resource.bookmarked ? (
                         <Bookmark className="h-4 w-4 fill-current" />
                       ) : (
-                        <Bookmark className="h-4 w-4" />  />
-                      ) : (
+                        <Bookmark className="h-4 w-4" />  
+                      ) } (
                         <Bookmark className="h-4 w-4" />
-                      )}
+                      )
                     </Button>
                   </div>
                 </div>

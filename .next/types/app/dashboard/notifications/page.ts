@@ -1,4 +1,4 @@
-// File: /home/user/kuch-nhi/app/dashboard/notifications/page.tsx
+// File: /home/user/FINGEN-AI/app/dashboard/notifications/page.tsx
 import * as entry from '../../../../../app/dashboard/notifications/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

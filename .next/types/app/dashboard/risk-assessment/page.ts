@@ -1,4 +1,4 @@
-// File: /home/user/kuch-nhi/app/dashboard/risk-assessment/page.tsx
+// File: /home/user/FINGEN-AI/app/dashboard/risk-assessment/page.tsx
 import * as entry from '../../../../../app/dashboard/risk-assessment/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
